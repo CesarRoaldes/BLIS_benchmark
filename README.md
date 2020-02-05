@@ -1,2 +1,2 @@
-# BLIS_python
-Implement BLIS framework in python
+# ELPDM
+Projet - Cesar et Mo 
