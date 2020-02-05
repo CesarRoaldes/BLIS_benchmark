@@ -38,7 +38,7 @@ sudo make install
 ``` 
 
 
-## Installation de numpy link BLIS 
+## 2. Installation de numpy adossée à BLIS
 
 Installation de numpy : 
 ```
@@ -67,7 +67,6 @@ Déclarer l'ordre :
 export NPY_BLAS_ORDER=blis
 export NPY_LAPACK_ORDER='' 
 ``` 
-
 Verification : 
 ``` 
 python setup.py config 
